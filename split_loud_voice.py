@@ -1,6 +1,7 @@
 '''
 
-Generate separate wav files depending on the loud voice detected in audio captcha challenge.
+Quick and dirty way to generate separate wav files depending on the loud voice detected in audio captcha challenge.
+Lots of room for improvement.
 Author : Debasish Mandal
 http://www.debasish.in/
 
